@@ -5,7 +5,7 @@ class Dogs
 end
 
   def sit
-    puts 
+    puts "The dog is sitting!"
   end
 end
 
