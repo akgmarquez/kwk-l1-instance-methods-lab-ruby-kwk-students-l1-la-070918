@@ -16,4 +16,4 @@ end
   end
 end
 
-puts Dogs
+puts Dogs.name
