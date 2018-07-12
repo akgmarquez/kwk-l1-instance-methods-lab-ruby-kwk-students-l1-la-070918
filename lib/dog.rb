@@ -7,8 +7,10 @@ end
 
   def bark
     @bark
+  end 
   if bark
     puts "Woof!"
+end
 end
 
   def sit
