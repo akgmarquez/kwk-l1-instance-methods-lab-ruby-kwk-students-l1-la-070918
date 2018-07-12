@@ -1,3 +1,5 @@
 # dog.rb
-class Dogs ("bark")
-  def Dogs
+class Dogs (bark, sit)
+  @bark = bark
+  @sit = sit
+  
