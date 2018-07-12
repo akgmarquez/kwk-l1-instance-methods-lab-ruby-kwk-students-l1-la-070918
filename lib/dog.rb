@@ -7,10 +7,8 @@ end
 
   def bark
     @bark
-  end 
   if bark
     puts "Woof!"
-end
 end
 
   def sit
@@ -18,4 +16,4 @@ end
   end
 end
 
-puts Dogs.initialize
+puts Dogs
