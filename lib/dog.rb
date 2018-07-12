@@ -1,3 +1,3 @@
 # dog.rb
-class Dogs
+class Dogs ("bark")
   def Dogs
