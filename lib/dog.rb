@@ -7,6 +7,8 @@ class Dogs
 
   def bark
     @bark
+  if bark
+    puts "Woof!"
 end
 
   def sit
